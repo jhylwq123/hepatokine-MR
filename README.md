@@ -3,7 +3,10 @@ CKD is increasingly recognized as a major complication of metabolic syndrome (Me
 
 
 Two-sample-MR ~~~~~  Custom code for identifying the causal proteins for eGFRcrea
+
 coloc ~~~~~  Custom code for colocalization analysis for pQTL and eGFRcrea GWAS
+
 cellchat ~~~~~~~ Custom code for cell-cell communication analysis for hepatokine mediated liver-kidney crosstalk
+
 ANGPLT3 ~~~~~~~ Custom code for associating circulating ANGPTL3 levels with kidney-related outcomes using cross-sectional and longitudinal analyses. 
 
